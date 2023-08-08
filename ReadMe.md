@@ -3,12 +3,13 @@
 
 ![gif](https://github.com/Qurat5/Qurat5/assets/113860342/904f54f7-9550-47b1-939b-d606cead9617)
 
-![QR1 (1)](https://github.com/Qurat5/Qurat5/assets/113860342/f49bf651-6a19-4685-a462-58ef11237c30)
+
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syeda-quratulaeen/) 
 
+![QR1 (1)](https://github.com/Qurat5/Qurat5/assets/113860342/f49bf651-6a19-4685-a462-58ef11237c30)
 
 
 # 💻 Tech Stack:
