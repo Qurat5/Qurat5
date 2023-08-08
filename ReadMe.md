@@ -8,7 +8,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syeda-quratulaeen/) 
 
-![QR1](https://github.com/Qurat5/Qurat5/assets/113860342/893d0f0a-8c4a-49a1-a289-ce2da389ddd9)
+
 
 
 # 💻 Tech Stack:
