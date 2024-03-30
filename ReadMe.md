@@ -2,6 +2,42 @@
 🔭 I'm currently working on: Completing my AI graduate program and preparing for my final projects. Additionally, I'm actively engaged in a project focused on anomaly detection in traffic sign recognition.<br><br>🌱 I'm looking to collaborate on: AI research projects, machine learning algorithms, and applications of artificial intelligence in various domains. Specifically, I'm interested in collaborating with experts who have insights into computer vision and anomaly detection.<br><br>🤔 I'm looking for help with: Exploring advanced topics in AI, refining my programming skills, and gaining insights from experienced AI professionals. I'm particularly interested in understanding techniques and methodologies related to anomaly detection in computer vision applications.<br><br>💬 I'm currently learning: Advanced machine learning techniques, natural language processing, computer vision, and deep reinforcement learning as part of my AI graduate program. My current project involves applying these skills to tackle real-world challenges in traffic sign recognition.<br><br>📫 Ask me about: My AI research interests, any specific projects or subjects within AI, my experience as an AI graduate student, and my ongoing project on anomaly detection in traffic sign recognition.<br><br>⚡ 3 Fun facts:<br><br>I can spend hours experimenting with neural network architectures just to see how they perform on different datasets.<br>I've attended several AI conferences and even presented my research at one last year.<br>When I'm not coding or researching AI, I love hiking and exploring nature trails.<br>
 
 ![gif](https://github.com/Qurat5/Qurat5/assets/113860342/904f54f7-9550-47b1-939b-d606cead9617)
+# Machine Learning
+
+## Supervised(Machine Training with Labelled data)
+### Regression
+* Linear Regression[IN-Progress]
+* Elastic Net(GLM)[IN-Progress]
+* Decision Tree[IN-Progress]
+* Random Forest[IN-Progress]
+* XGBoost[IN-Progress]
+* K-Nearest Neightbours[IN-Progress]
+* Support Vector Machine[IN-Progress]
+### Classification
+* Decision Tree[IN-Progress]
+* Random Forests[IN-Progress]
+* SVM[IN-Progress]
+* K-NN[IN-Progress]
+* XGBoost[IN-Progress]
+* Logistic Regression[IN-Progress]
+  
+## Unsupervised(Machine Training with unlabelled data)
+### Clustering
+* K- Mean Clustering[IN-Progress]
+* Hierachical Clustering[IN-Progress]
+* DBSCAN[IN-Progress]
+### Others
+* PCA[IN-Progress]
+* Association[IN-Progress]
+
+# Deep Learning
+* CNN[IN-Progress]
+* RNN[IN-Progress]
+
+# Reinforcement Learning
+* Qlearning[IN-Progress]
+* R-Learning[IN-Progress]
+* TD-Learning[IN-Progress]
 
 # Certification
 
@@ -22,8 +58,6 @@
 * Deep-Learning with PyTorch [Certificate](https://drive.google.com/file/d/1PWIsZg2RHcIGsG6eLVcp6KVMUN4cc8QU/view)
 #### Linux
 * Introduction to Shell [Certificate](https://drive.google.com/file/d/1PWIsZg2RHcIGsG6eLVcp6KVMUN4cc8QU/view)
-
-# 📊 GitHub Stats:
 
 
 ## 🌐 Socials:
