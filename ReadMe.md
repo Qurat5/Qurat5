@@ -1,5 +1,21 @@
-# 💫 About Me:
-🔭 I'm currently working on: Completing my AI graduate program and preparing for my final projects. Additionally, I'm actively engaged in a project focused on anomaly detection in traffic sign recognition.<br><br>🌱 I'm looking to collaborate on: AI research projects, machine learning algorithms, and applications of artificial intelligence in various domains. Specifically, I'm interested in collaborating with experts who have insights into computer vision and anomaly detection.<br><br>🤔 I'm looking for help with: Exploring advanced topics in AI, refining my programming skills, and gaining insights from experienced AI professionals. I'm particularly interested in understanding techniques and methodologies related to anomaly detection in computer vision applications.<br><br>💬 I'm currently learning: Advanced machine learning techniques, natural language processing, computer vision, and deep reinforcement learning as part of my AI graduate program. My current project involves applying these skills to tackle real-world challenges in traffic sign recognition.<br><br>📫 Ask me about: My AI research interests, any specific projects or subjects within AI, my experience as an AI graduate student, and my ongoing project on anomaly detection in traffic sign recognition.<br><br>⚡ 3 Fun facts:<br><br>I can spend hours experimenting with neural network architectures just to see how they perform on different datasets.<br>I've attended several AI conferences and even presented my research at one last year.<br>When I'm not coding or researching AI, I love hiking and exploring nature trails.<br>
+💫 **About Me**:
+
+🔭 **I'm currently working on:** Completing my Master's in Artificial Intelligence with a focus on practical applications in predictive modeling and data analysis. My recent projects include optimizing athletic training regimens using wearable technology and predictive analytics in team sports.
+
+🌱 **I'm looking to collaborate on:** AI research projects that leverage machine learning, data visualization, and predictive analytics. I'm particularly interested in applications of AI in sports analytics and healthcare, bringing a unique perspective from my diverse project experiences.
+
+🤔 **I'm looking for help with:** Advancing my understanding of AI through collaboration on cutting-edge projects. I am keen to refine my skills in Python, R, and machine learning frameworks, and I am looking for mentorship in areas such as predictive modeling and optimization techniques.
+
+💬 **I'm currently learning:** Deepening my expertise in machine learning and statistical techniques as part of my AI graduate program. I am applying these skills to real-world scenarios, focusing on data-driven solutions to enhance performance and decision-making processes.
+
+📫 **Ask me about:** My experience with data analysis and visualization tools like PowerBI and Tableau, my journey in AI from academics to practical applications, and any specific projects I’ve tackled in sports analytics or healthcare.
+
+⚡ **3 Fun facts**:
+1. I enjoy breaking down complex AI concepts into easy-to-understand content, which I got to do a lot as a Technical AI Writer.
+2. I’ve successfully freelanced as a Data Analyst, providing tailor-made solutions across various sectors.
+3. Outside of tech, I’m passionate about outdoor activities, especially hiking and exploring different nature trails.
+
+
 
 ![gif](https://github.com/Qurat5/Qurat5/assets/113860342/904f54f7-9550-47b1-939b-d606cead9617)
 # Machine Learning
