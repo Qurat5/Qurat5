@@ -1,6 +1,6 @@
 💫 **About Me**:
 
-🔭 **I'm currently working on:** Completing my Master's in Artificial Intelligence with a focus on practical applications in predictive modeling and data analysis. My recent projects include optimizing athletic training regimens using wearable technology and predictive analytics in team sports.
+🔭 I'm currently working on: I have recently graduated from my AI graduate program. I successfully completed a project focused on anomaly detection in traffic sign recognition, applying advanced skills and knowledge acquired during my studies to solve real-world problems.
 
 🌱 **I'm looking to collaborate on:** AI research projects that leverage machine learning, data visualization, and predictive analytics. I'm particularly interested in applications of AI in sports analytics and healthcare, bringing a unique perspective from my diverse project experiences.
 
@@ -14,7 +14,6 @@
 1. I enjoy breaking down complex AI concepts into easy-to-understand content, which I got to do a lot as a Technical AI Writer.
 2. I’ve successfully freelanced as a Data Analyst, providing tailor-made solutions across various sectors.
 3. Outside of tech, I’m passionate about outdoor activities, especially hiking and exploring different nature trails.
-
 
 
 ![gif](https://github.com/Qurat5/Qurat5/assets/113860342/904f54f7-9550-47b1-939b-d606cead9617)
