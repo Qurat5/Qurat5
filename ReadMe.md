@@ -58,8 +58,8 @@ If you want to explore any of the projects in more detail or reproduce the analy
 [![](https://visitcount.itsvg.in/api?id=syeda-quratulaeen&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/mahmudapaydin
-Email: mapay5555@gmail.com
+LinkedIn: https://www.linkedin.com/in/syeda-quratulaeen
+Email: syedaquratulaeen@gmail.com
 Feel free to reach out if you have any questions or would like to discuss collaboration or job opportunities.
 
 
