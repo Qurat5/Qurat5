@@ -1,2 +1,2 @@
-![Dashboard](Tableau Projects/Netflix Analysis/Netflix Analysis.png)
+![Dashboard](Netflix Analysis.png)
 
