@@ -4,7 +4,7 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link - http
 
 ## Dashboards
 1. Netflix Analysis
-![Dashboard](Tableau Projects/Netflix Analysis/NetflixAnalysis.png)
+
 
 ### What I Learned in Tableau
 
