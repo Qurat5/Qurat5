@@ -1,6 +1,11 @@
 # Tableau Projects
 View all my Tableau-Projects Dashboards on my Tableau Public Profile link - https://public.tableau.com/app/profile/syeda.qurat.ul.aeen/vizzes
 
+
+## Dashboards
+1. Netflix Analysis
+![Dashboard](NetflixAnalysis.png)
+
 ### What I Learned in Tableau
 
 - Creating Interactive Dashboards
