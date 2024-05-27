@@ -1,2 +1,2 @@
-![Dashboard](Netflix Analysis.png)
+![Dashboard](Netflix-Analysis.png)
 
